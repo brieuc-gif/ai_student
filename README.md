@@ -1,10 +1,6 @@
-Présentation du projet
-
 Il s'agit de mon premier projet d'analyse de données, réalisé dans le but de mettre en pratique les compétences que j'ai développées en autodidacte sur SQL, Python (Pandas) et Power BI.
 
 J'ai choisi de travailler sur une base de données accessible portant sur l'utilisation de l'intelligence artificielle par des étudiants afin d'explorer plusieurs questions liées à leurs habitudes de travail, leurs résultats académiques et leur bien-être.
-
-Objectif
 
 L'objectif de ce projet était de reproduire les différentes étapes d'un processus d'analyse de données :
 -Nettoyage des données avec la bibliothèque pandas
